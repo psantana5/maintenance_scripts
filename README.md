@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Maintenance Scripts</title>
-</head>
 <body>
   <h1>Maintenance Scripts</h1>
   
